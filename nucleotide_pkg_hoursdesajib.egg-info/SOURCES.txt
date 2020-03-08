@@ -1,0 +1,6 @@
+README.md
+setup.py
+nucleotide_pkg_hoursdesajib.egg-info/PKG-INFO
+nucleotide_pkg_hoursdesajib.egg-info/SOURCES.txt
+nucleotide_pkg_hoursdesajib.egg-info/dependency_links.txt
+nucleotide_pkg_hoursdesajib.egg-info/top_level.txt

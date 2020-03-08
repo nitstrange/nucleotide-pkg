@@ -1,5 +1,10 @@
 from information import table, return_seq
 
+"""Translate a string containing a nucleotide sequence 
+into a string containing the corresponding sequence of 
+amino acids . Nucleotides are translated in triplets 
+using the table dictionary; each amino acid 4 is encoded
+ with a string of length 1. """
 
 def nucleotide(filename, location):
     inputfile  =  open(location+filename,"r")
@@ -24,4 +29,4 @@ def nucleotide(filename, location):
     ## Read nucleotide sequence 
     return nucleotide
 
-print(nucleotide('sequence.txt','./seq/'))
+#print(nucleotide('sequence.txt','./seq/'))
